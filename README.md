@@ -1,4 +1,4 @@
-## Group Charge
+## BHL-Wiki Group Charge
 
 A catalyst to BHL’s internal technical evolution has been hastened by increasing urgent calls from the scientific community which now predict dire changes for all life on Earth by 2035.  BHL’s commitments to the Biodiversity Commons and all of humanity require that BHL unlock 60+ million pages of data from the 15th-21st centuries and make it actionable as soon as possible.  As a result, BHL’s data management strategies are evolving to embrace automation, crowdsourcing, and the semantic web. The Wikimedia project ecosystem acts as a global information broker and collaboratively edited knowledge graph that facilitates the semantic enrichment and rapid dissemination of data present in the BHL corpus. The BHL-WIKI working group members are dedicated to converting BHL’s legacy data into a computationally usable resource and expanding global access to biodiversity knowledge for all.
 
